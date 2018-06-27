@@ -87,3 +87,9 @@
 #### Router Alert Option
 
 # 3. Fragmentation and Defragmentation
+
+![Alt text](/pic/IP_fragmentation.png)
+
+What's the situation need to defragmentation?
+1. Destination need to defragment the IP Fragmentation
+2. The mid Device, like FireWall and NAT Router, need to defragment the IP Fragmentation
