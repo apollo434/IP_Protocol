@@ -93,3 +93,4 @@
 What's the situation need to defragmentation?
 1. Destination need to defragment the IP Fragmentation
 2. The mid Device, like FireWall and NAT Router, need to defragment the IP Fragmentation
+3. Test
